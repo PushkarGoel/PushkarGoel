@@ -4,7 +4,8 @@
 
 - <b>Tool integrated with cyber security kits  </b>
   - [Project Link](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit)
-- <b> Active Directory Lab: https://github.com/PushkarGoel/ActiveDirectoryLab
+- <b> Active Directory Lab:
+   - [Walkthrough of the Lab](https://github.com/PushkarGoel/ActiveDirectoryLab)
 
 <h2>👨‍💻 Certifications:</h2>
 
