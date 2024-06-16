@@ -1,11 +1,19 @@
 <h1>Hi, I'm Pushkar! <br/><a href="https://github.com/PushkarGoel">Programmer</a>, <a href="https://github.com/PushkarGoel">Cybersecurity Professional</a>
   
-<h2>👨‍💻 Cyber Security Development Projects:</h2>
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Tool integrated with cyber security kits  </b>
   - [Project Link](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit)
 - <b> Active Directory Lab:
    - [Walkthrough of the Lab](https://github.com/PushkarGoel/ActiveDirectoryLab)
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Doubt portal </b>
+  - [A doubt portal for students built using node and express js](https://github.com/PushkarGoel/cn_doubt_portal)
+- <b>Stock market prediction </b>
+   - [A Python project which predicts Stock market using MLP and LSTM ](https://github.com/PushkarGoel/Stock-market-Prediction)
+
 
 <h2>👨‍💻 Certifications:</h2>
 
