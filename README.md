@@ -2,10 +2,12 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Tool integrated with cyber security kits  </b>
-  - [Project Link](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit)
 - <b> Active Directory Lab:
    - [Walkthrough of the Lab](https://github.com/PushkarGoel/ActiveDirectoryLab)
+- <b> Vulnerability scanner
+   - [Its a CLI tool which allows you to scan vulnerability in a codebase using multiple tools](https://github.com/PushkarGoel/vulnerabilityScanner) 
+- <b>Worked with a team on Deakin Detonator toolkit  </b>
+  - [Deakin Detonator Toolkit is a penetration testing toolkit. The toolkit allows you to use a variety of tools, without needing the "know-how" of each command.](https://github.com/Hardhat-Enterprises/Deakin-Detonator-Toolkit)
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
